@@ -1,0 +1,6 @@
+framework module Pods_tomatosoup {
+  umbrella header "Pods-tomatosoup-umbrella.h"
+
+  export *
+  module * { export * }
+}
